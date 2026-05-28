@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(({ command }) => {
   return {
-    base: command === 'build' ? '/ERtransfer.github.io/' : '/',
+    base: command === 'build' ? '/ertransfer.github.io/' : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
