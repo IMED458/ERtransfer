@@ -1,0 +1,6 @@
+{
+  "name": "გადაუდებელი მედიცინის მიმართვების სისტემა",
+  "description": "პაციენტის მიმართვების მართვის სისტემა გადაუდებელი მედიცინის დეპარტამენტისთვის (ემერჯენსის პანელი და ექიმის პანელი)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
