@@ -91,8 +91,8 @@ function getStatusConfig(status: Referral["status"]): StatusConfig {
       return {
         label: "უარყოფილია",
         icon: <XCircle className="w-3.5 h-3.5" />,
-        badgeClass: "bg-slate-100 text-slate-600 border-slate-200",
-        cardBorderClass: "border-slate-200",
+        badgeClass: "bg-rose-100 text-rose-700 border-rose-300",
+        cardBorderClass: "border-rose-100",
       };
   }
 }
